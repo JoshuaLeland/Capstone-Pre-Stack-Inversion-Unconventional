@@ -1,0 +1,6 @@
+I have ommited some of the code which involved the PuestoField Data set.  As a result some of the matlab code will not run properly. 
+
+It will however work will all of my synthetically generated data.
+
+
+The real dataset is not mine. If you are wanting the data please email Maurcio for permission and I can release it to you with his written consent.
